@@ -31,7 +31,7 @@ Scoring is based on a 1–5 scale multiplied by the assigned weight.
 | **Weighted Total (/5)** | **4.55** | **3.50** | **3.60** |
 
 
-##  Database Matrix
+##  Database Matrix 
 
 | Criterion (weight) | Firebase (Firestore + Realtime DB) | PostgreSQL | MongoDB | DynamoDB |
 |---|---:|---:|---:|---:|
